@@ -35,6 +35,7 @@ int main()
 }
 ```
 
+
 3 - a) 9
 
 b) 128
@@ -48,7 +49,10 @@ e) 13
 f) 200
 
 
-4 - 
+
+4 - Liga-se o interruptor 1 por 5 minutos, desliga, e liga o 2. verificando em uma das salas, se houver uma lâmpada acesa, pertencerá ao interruptor 2, se apagada e quente ao 1, e se fria, ao 3.
+Liga-se um dos outros 2 interruptores, e verifica-se em uma das outras salas, se a lâmpada estiver acesa, pertence àquele interruptor ligado, se não ao outro. E por lógica, a ultima lâmpada pertence ao último interruptor.
+
 
 5 - 
 ```
